@@ -1,6 +1,6 @@
 # E-Commerce-App-UI-Flutter
 A new Flutter project.
-Course from @DearProgramer
+Course from DearProgramer Youtuber
 
 ## Getting Started
 

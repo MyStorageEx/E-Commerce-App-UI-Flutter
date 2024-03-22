@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# ecommerce_shopping_app
-
+# E-Commerce-App-UI-Flutter
 A new Flutter project.
+Course from @DearProgramer
 
 ## Getting Started
 
@@ -15,7 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
-# E-Commerce-App-UI-Flutter
-Course from @DearProgramer
->>>>>>> 62306fbd7184d95b0d45993070478a67681f14c8
